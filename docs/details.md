@@ -17,6 +17,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
+| $x$ | $y$ |
+| :-: | :-: |
+| $1$ | $2$ |
+
 ```markdown
 Syntax highlighted code block
 
@@ -33,6 +37,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+| $x$ | $y$ |
+| :-: | :-: |
+| $1$ | $2$ |
 ```
 </diV></details>
 
@@ -55,6 +63,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
+| $x$ | $y$ |
+| :-: | :-: |
+| $1$ | $2$ |
+
 ```markdown
 Syntax highlighted code block
 
@@ -71,6 +83,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+| $x$ | $y$ |
+| :-: | :-: |
+| $1$ | $2$ |
 ```
 </diV></details>
 
@@ -95,6 +111,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
+| $x$ | $y$ |
+| :-: | :-: |
+| $1$ | $2$ |
+
 ```markdown
 Syntax highlighted code block
 
@@ -111,6 +131,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+| $x$ | $y$ |
+| :-: | :-: |
+| $1$ | $2$ |
 ```
 </diV></details>
 
@@ -133,6 +157,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
+| $x$ | $y$ |
+| :-: | :-: |
+| $1$ | $2$ |
+
 ```markdown
 Syntax highlighted code block
 
@@ -149,6 +177,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+| $x$ | $y$ |
+| :-: | :-: |
+| $1$ | $2$ |
 ```
 </diV></details>
 {::options parse_block_html="false" /}
