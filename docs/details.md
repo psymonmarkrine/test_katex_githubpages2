@@ -1,6 +1,7 @@
 ## details test
 
 <details><summary><summary>test1<div>
+
 Syntax highlighted code block
 
 # Header 1
@@ -39,6 +40,7 @@ Syntax highlighted code block
 ***
 
 <details><summary markdown="span">test2<summary><div>
+
 Syntax highlighted code block
 
 # Header 1
@@ -79,6 +81,7 @@ Syntax highlighted code block
 {::options parse_block_html="true" /}
 
 <details><summary>test3<summary><div>
+
 Syntax highlighted code block
 
 # Header 1
@@ -117,6 +120,7 @@ Syntax highlighted code block
 ***
 
 <details><summary markdown="span">test4<summary><div>
+
 Syntax highlighted code block
 
 # Header 1
