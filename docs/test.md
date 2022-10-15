@@ -30,9 +30,9 @@ $$
 $$
 
 $$
-\begin{align*}
+\begin{aligned}
   x & = y \newline
   y & = f(x) \newline
   f(x) & = \sqrt{x^2 + y^2} \tag{0.5} \newline
-\end{align*}
+\end{aligned}
 $$
