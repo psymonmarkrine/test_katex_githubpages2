@@ -22,7 +22,7 @@ $$
 $$
 
 $$
-\begin{align}
+\begin{align*}
   x & = y \cr
   y & = f(x) \cr
   f(x) & = \sqrt{x^2 + y^2} \tag{0.4} \cr
@@ -30,7 +30,7 @@ $$
 $$
 
 $$
-\begin{align}
+\begin{align*}
   x & = y \newline
   y & = f(x) \newline
   f(x) & = \sqrt{x^2 + y^2} \tag{0.5} \newline
