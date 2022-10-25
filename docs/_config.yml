@@ -1,2 +1,4 @@
 theme: jekyll-theme-primer
 title: Katex test2
+kramdown:
+  parse_block_html: true
